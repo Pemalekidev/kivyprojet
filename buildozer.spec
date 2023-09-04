@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = WikiSearch
+title = MalekiApp
 
 # (str) Package name
-package.name = wiki
+package.name = malekiApp
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.search
+package.domain = org.search.maleki
 
 # (str) Source code where the main.py live
 source.dir = .
